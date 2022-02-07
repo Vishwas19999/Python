@@ -1,0 +1,10 @@
+a=10
+b=20
+c=a+b
+print("addition of two numbers is:",c)
+
+
+a=10
+b=20
+c=b-a
+print("subtraction of two numbers is:",c)
