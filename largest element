@@ -1,0 +1,9 @@
+c=100
+d=12
+e=9000
+if(c>d and c>e):
+    print("c is greater")
+elif(d>e and d>c):
+    print("d is greater")
+else:
+    print("e is greater")
